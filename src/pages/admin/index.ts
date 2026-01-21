@@ -1,0 +1,6 @@
+export { DashboardPage } from './DashboardPage'
+export { WebinarsPage } from './WebinarsPage'
+export { RegistrationsPage } from './RegistrationsPage'
+export { EmailsPage } from './EmailsPage'
+export { ReplaysPage } from './ReplaysPage'
+export { SettingsPage } from './SettingsPage'
